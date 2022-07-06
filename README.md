@@ -1,5 +1,6 @@
 # Sobre o projeto
- Este projeto foi desenvolvido durante a Maratona Explorer da Rocketseat.
+ Este projeto foi desenvolvido durante a Maratona Explorer da Rocketseat. Acesse o link para ter uma mlehor analise do projeto.
+ https://git-leamaral.github.io/Rocket_link/
 
 # Desenvolvimento do projeto
  Foi ultilizado neste projeto HTML,CSS e JavaScript
