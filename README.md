@@ -1,5 +1,7 @@
 # Sobre o projeto
- Este projeto foi desenvolvido durante a Maratona Explorer da Rocketseat. Acesse o link para ter uma mlehor analise do projeto.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Git-LeAmaral/Rocket_link/blob/main/LICENSE) 
+
+ Este projeto foi desenvolvido durante a Maratona Explorer da Rocketseat. Acesse o link para ter uma melhor analise do projeto.
  https://git-leamaral.github.io/Rocket_link/
 
 # Desenvolvimento do projeto
